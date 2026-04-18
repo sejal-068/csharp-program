@@ -1,0 +1,14 @@
+# .NET build folders
+bin/
+obj/
+
+# Executables & debug files
+*.exe
+*.dll
+*.pdb
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
