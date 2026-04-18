@@ -1,0 +1,15 @@
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\bin\Debug\net10.0\matrix_multiplication.exe
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\bin\Debug\net10.0\matrix_multiplication.deps.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\bin\Debug\net10.0\matrix_multiplication.runtimeconfig.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\bin\Debug\net10.0\matrix_multiplication.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\bin\Debug\net10.0\matrix_multiplication.pdb
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\matrix_multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\matrix_multiplication.AssemblyInfoInputs.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\matrix_multiplication.AssemblyInfo.cs
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\matrix_multiplication.csproj.CoreCompileInputs.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\matrix_multiplication.sourcelink.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\matrix_multiplication.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\refint\matrix_multiplication.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\matrix_multiplication.pdb
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\matrix_multiplication.genruntimeconfig.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_multiplication\obj\Debug\net10.0\ref\matrix_multiplication.dll

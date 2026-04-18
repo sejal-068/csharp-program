@@ -1,0 +1,15 @@
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\bin\Debug\net10.0\duplicate_array.exe
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\bin\Debug\net10.0\duplicate_array.deps.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\bin\Debug\net10.0\duplicate_array.runtimeconfig.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\bin\Debug\net10.0\duplicate_array.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\bin\Debug\net10.0\duplicate_array.pdb
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\duplicate_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\duplicate_array.AssemblyInfoInputs.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\duplicate_array.AssemblyInfo.cs
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\duplicate_array.csproj.CoreCompileInputs.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\duplicate_array.sourcelink.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\duplicate_array.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\refint\duplicate_array.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\duplicate_array.pdb
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\duplicate_array.genruntimeconfig.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\duplicate_array\obj\Debug\net10.0\ref\duplicate_array.dll

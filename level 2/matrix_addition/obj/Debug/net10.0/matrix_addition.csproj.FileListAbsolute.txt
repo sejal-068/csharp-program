@@ -1,0 +1,15 @@
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\bin\Debug\net10.0\matrix_addition.exe
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\bin\Debug\net10.0\matrix_addition.deps.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\bin\Debug\net10.0\matrix_addition.runtimeconfig.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\bin\Debug\net10.0\matrix_addition.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\bin\Debug\net10.0\matrix_addition.pdb
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\matrix_addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\matrix_addition.AssemblyInfoInputs.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\matrix_addition.AssemblyInfo.cs
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\matrix_addition.csproj.CoreCompileInputs.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\matrix_addition.sourcelink.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\matrix_addition.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\refint\matrix_addition.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\matrix_addition.pdb
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\matrix_addition.genruntimeconfig.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level 2\matrix_addition\obj\Debug\net10.0\ref\matrix_addition.dll
