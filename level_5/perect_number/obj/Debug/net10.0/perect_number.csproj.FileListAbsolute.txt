@@ -1,0 +1,15 @@
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\bin\Debug\net10.0\perect_number.exe
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\bin\Debug\net10.0\perect_number.deps.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\bin\Debug\net10.0\perect_number.runtimeconfig.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\bin\Debug\net10.0\perect_number.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\bin\Debug\net10.0\perect_number.pdb
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\perect_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\perect_number.AssemblyInfoInputs.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\perect_number.AssemblyInfo.cs
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\perect_number.csproj.CoreCompileInputs.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\perect_number.sourcelink.json
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\perect_number.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\refint\perect_number.dll
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\perect_number.pdb
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\perect_number.genruntimeconfig.cache
+C:\Users\sejal\OneDrive\Desktop\C_sharp\level_5\perect_number\obj\Debug\net10.0\ref\perect_number.dll
